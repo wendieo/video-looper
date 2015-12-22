@@ -1,0 +1,9 @@
+{
+  "name": "jts_video_looper",
+  "dependencies": {
+    "video-js": "~4.11.3"
+},
+  "resolutions": {
+    "video-js": "~4.11.3"
+  }
+}
